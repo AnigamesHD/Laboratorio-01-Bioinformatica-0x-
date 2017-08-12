@@ -62,6 +62,8 @@ __¿Cuál es el número de identificación de tu gen (entry number)?__
 
 El número de identificación del gen es 443 CDS
 
+__¿En qué otras bases de datos está tu gen y cuáles son sus números de acceso?__
+
 
 
 
