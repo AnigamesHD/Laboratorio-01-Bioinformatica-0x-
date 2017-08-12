@@ -52,7 +52,7 @@ __¿Existen otros tipos de nombres alternativos al gen reportados por Kegg? ¿Cu
 
 Si, el gen ASP
 
-__	¿En qué rutas metabólicas participa la proteina codificada por tu gen?__
+__¿En qué rutas metabólicas participa la proteina codificada por tu gen?__
 
 Participa en 2 rutas metabólicas; en el metabolismo de la Histidina y en el metabolismo de
 
