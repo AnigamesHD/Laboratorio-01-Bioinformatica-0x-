@@ -52,11 +52,17 @@ __Pseudogenes__: No hay pseudogenes descritos en la base de datos
 
 __¿Existen otros tipos de nombres alternativos al gen reportados por Kegg? ¿Cuáles?__
 
-Si, el gen ASP
+No hay otros tipos de nombres alternativos del gen en la base de datos 
 
 __¿En qué rutas metabólicas participa la proteina codificada por tu gen?__
 
-Participa en 2 rutas metabólicas; en el metabolismo de la Histidina y en el metabolismo de
+Participa en el metabolismo de la Histidina y en el metabolismo de la Alanina, Aspartato y Glutamato
+
+__¿Cuál es el número de identificación de tu gen (entry number)?__
+
+El número de identificación del gen es 443 CDS
+
+
 
 
 ## Parte 3: analisis
