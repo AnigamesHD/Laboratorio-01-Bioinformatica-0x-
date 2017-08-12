@@ -34,15 +34,15 @@ __Variantes descritas del gen__: 75
 
 __Posiciones de las variantes__: 
 
-Chr17: 3379349
+Chr17: 3392543 : No sinónimo
 
-Chr17: 3476055
+Chr17: 3476238 : No sinónimo
 
-Chr17: 3379455
+Chr17: 3476371 : Sinónimo
 
-Chr17: 3476161
+Chr17: 3397702 : Sinónimo
 
-__Ortólogos__: 220 organismos tienen orthologs con el gen humano ASPA
+__Ortólogos__: Hay 220 organismos son ortólogos con el gen humano ASPA
 
 __Paralógos__: Hay 1 (encontrado en KEGG)
 
@@ -56,5 +56,11 @@ __¿En qué rutas metabólicas participa la proteina codificada por tu gen?__
 
 Participa en 2 rutas metabólicas; en el metabolismo de la Histidina y en el metabolismo de
 
+
+## Parte 3: analisis
+
+__Clasificación de genes__
+
+gen 1: posee --..
 
 
