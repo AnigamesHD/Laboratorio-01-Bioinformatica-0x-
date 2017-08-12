@@ -80,7 +80,7 @@ UniProt:                             P45381 Q6FH48
 __Ruta metabólica de la Histidina (Pantallazo)__:
 https://www.dropbox.com/s/klj1pgena3ndjz2/Captura%20de%20pantalla%202017-08-12%20a%20la%28s%29%2017.53.39.png?dl=0
 
-__¿Qué significan los cuadros verdes en el diagrama?
+__¿Qué significan los cuadros verdes en el diagrama?__
 
 Los cuadros verdes estan asociado a una página con información del gen que codifica la enzima implicada en la ruta metabólica
 
