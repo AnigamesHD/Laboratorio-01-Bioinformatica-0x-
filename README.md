@@ -42,9 +42,11 @@ Chr17: 3476371 : Sinónimo
 
 Chr17: 3397702 : Sinónimo
 
-__Ortólogos__: Hay 220 organismos son ortólogos con el gen humano ASPA
+__Ortólogos__: Hay 220 organismos que son ortólogos con el gen humano ASPA
 
-__Paralógos__: Hay 1 (encontrado en KEGG)
+__Paralógos__: No hay paralógos descritos en la base de datos
+
+__Pseudogenes__: No hay pseudogenes descritos en la base de datos
 
 ## Parte 2: Rutas y procesos metabólicos
 
