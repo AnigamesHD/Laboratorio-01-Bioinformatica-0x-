@@ -77,8 +77,7 @@ NCBI-GeneID:                         443
 
 UniProt:                             P45381 Q6FH48
 
-
-
+__Diagrama del metabolismo de la Histidina__:https://www.dropbox.com/s/klj1pgena3ndjz2/Captura%20de%20pantalla%202017-08-12%20a%20la%28s%29%2017.53.39.png?dl=0
 
 ## Parte 3: analisis
 
