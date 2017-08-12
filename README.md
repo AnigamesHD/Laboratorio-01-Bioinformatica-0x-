@@ -77,9 +77,16 @@ NCBI-GeneID:                         443
 
 UniProt:                             P45381 Q6FH48
 
-__Diagrama del metabolismo de la Histidina (Pantallazo)__:
+__Ruta metabólica de la Histidina (Pantallazo)__:
 https://www.dropbox.com/s/klj1pgena3ndjz2/Captura%20de%20pantalla%202017-08-12%20a%20la%28s%29%2017.53.39.png?dl=0
 
+__¿Qué significan los cuadros verdes en el diagrama?
+
+Los cuadros verdes estan asociado a una página con información del gen que codifica la enzima implicada en la ruta metabólica
+
+__¿Con qué rutas se cruza la ruta metabólica?__
+
+El metabolismo de la Histidina se cruza con el metaboliso de la purina, la ruta de las pentosas fosfato y con el metaboliso de la alanina, aspartato y glutamato.
 
 ## Parte 3: analisis
 
