@@ -44,7 +44,7 @@ Chr17: 3476161
 
 __Ortólogos__: 220 organismos tienen orthologs con el gen humano ASPA
 
-__Paralógos_: Hay 1 (encontrado en KEGG)
+__Paralógos__: Hay 1 (encontrado en KEGG)
 
 ## Parte 2: Rutas y procesos metabólicos
 
