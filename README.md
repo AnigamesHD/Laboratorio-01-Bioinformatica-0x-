@@ -95,12 +95,28 @@ Lo forman por 3: Molecular Function, Cellular Component and Biological Process
 __¿A qué corresponde este término (GO:0006096) y qué información te entrega la página?__
 
 El término buscado corresponde al proceso glicolítico.
+La página entrega información de la vía a la cual 0006096 pertenece, como por ejemplo nombres alternativos  con los que se le conoce, expliación de lo que consiste la vía, links a todos los genes y productos genéticos implicados en el proceso glicolítico y links a otras anotaciones sobre la vía.
+
+__Anota 10 SUb-categorías GO a la cual GO:0006096 pertenece__
+
+1-Proceso catabólico de carbohidratos
+2-Generación de precursores metabolicos y energìa
+3-Fosforilacion de nucleosido difosfato
+4-Proceso metabolico de atp
+5-Proceso metabólico de nucleotidos
+6-Proceso catabolico
+7-Proceso metabolicod el acido monocarboxilico
+8-Metabolismo de carbohidratos de un solo organismo 
+9-Proceso catabolico de un solo organmismo
+10-Proceso metabolicos de coezimas
+
 
 
 
 ## Parte 3: analisis
 
 __Clasificación de genes__
+
 
 gen 1: posee --..
 
