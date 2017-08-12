@@ -88,6 +88,16 @@ __¿Con qué rutas se cruza la ruta metabólica?__
 
 El metabolismo de la Histidina se cruza con el metaboliso de la purina, la ruta de las pentosas fosfato y con el metaboliso de la alanina, aspartato y glutamato.
 
+__¿Cuántos "dominios" forman la anotación GO?
+
+Lo forman por 3: Molecular Function, Cellular Component and Biological Process
+
+__¿A qué corresponde este término (GO:0006096) y qué información te entrega la página?__
+
+El término buscado corresponde al proceso glicolítico.
+
+
+
 ## Parte 3: analisis
 
 __Clasificación de genes__
