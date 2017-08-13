@@ -100,14 +100,23 @@ La página entrega información de la vía a la cual 0006096 pertenece, como por
 __Anota 10 SUb-categorías GO a la cual GO:0006096 pertenece__
 
 1-Proceso catabólico de carbohidratos
+
 2-Generación de precursores metabolicos y energía
+
 3-Fosforilación de nucleosido difosfato
+
 4-Proceso metabolico de atp
+
 5-Proceso metabólico de nucleotidos
+
 6-Proceso catabolico
+
 7-Proceso metabolico del acido monocarboxilico
+
 8-Metabolismo de carbohidratos de un solo organismo 
+
 9-Proceso catabólico de un solo organmismo
+
 10-Proceso metabolicos de coezimas
 
 ## Parte 3: Descargando secuencias, convirtiendo formatos
