@@ -230,4 +230,9 @@ __Descripciòn de los reultados de  "human microbiome" filetype:pdf__
 
 Se observa que todos los resultados presentan como título "human microbiome" y además la mayoría contienen los caracteres de pdf delante del título.
 
+__Busqueda de "PCR amplification" +temperature, y luego "PCR amplification" -temperature__
+
+__¿En qué cambian los resultados de la búsqueda?
+
+En que al utilizar los signos + y - en la búsqueda da como resultado diferentes artículos científicos y una diferencia considerable en la cantidad de articulos, por lo que la utilización de estos símbolos es de suma utilidad para reducir  los resultados en las búsquedas de artículos.
 
