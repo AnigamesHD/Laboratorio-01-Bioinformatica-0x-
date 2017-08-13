@@ -218,5 +218,16 @@ __¿En qué cambiaron los resultados de la búsqueda?__
 
 Los cambios de los resultados fueron que además de marcar la frase Human Microbiome marcan algunas otras palabras, tales como  "refers" o  "project" con el fin de señalar que Human Microbiome es parte de una oración más grande 
 
+__Prueba con 14 inch...17 inch laptops en google.com__
+
+__¿Qué encuentras en los resultados? Prueba sin el rango también
+
+La cantidad de resultados varía con la utilización con o sin el rango
+
+__Busqueda de artículos cientificos__
+
+__Descripciòn de los reultados de  "human microbiome" filetype:pdf__
+
+Se observa que todos los resultados presentan como título "human microbiome" y además la mayoría contienen los caracteres de pdf delante del título.
 
 
