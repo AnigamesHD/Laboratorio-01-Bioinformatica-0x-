@@ -64,7 +64,6 @@ El número de identificación del gen es 443 CDS
 
 __¿En qué otras bases de datos está tu gen y cuáles son sus números de acceso?__
 
-  
 Nombre de la base de datos: Número de acceso
 
 OMIM:                               608034
