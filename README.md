@@ -236,3 +236,8 @@ __¿En qué cambian los resultados de la búsqueda?
 
 En que al utilizar los signos + y - en la búsqueda da como resultado diferentes artículos científicos y una diferencia considerable en la cantidad de articulos, por lo que la utilización de estos símbolos es de suma utilidad para reducir  los resultados en las búsquedas de artículos.
 
+__Prueba de Operadores Boolean con Soil OR Human pathogens y luego con Soil AND Human pathogens__
+
+__¿En qué cambian los resultados?__
+
+En que al utilizar el operador AND reduce los resultados de la  búsqueda, ya que mezcla solo los terminos escritos en comparación al operador OR arrojo una mayor cantidad de resultados, por lo que se decuce que al utilizar este operador OR amplia la busqueda.
