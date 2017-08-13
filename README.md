@@ -122,5 +122,12 @@ __¿Cuántos en animales?__
 
 Del total de los organismos que tenían el gen 12036 eran de animales.
 
+__Busqueda para la secuencia de GAPDH de gallina.__
 
+__¿Cuál es la longitud del gen?__
 
+La longitud del gen es de 3.918
+
+__¿Cuál es la referencia bibliográfica más reciente?
+
+Ren X, Zhang L, Gao Y, Gao H, Wang Y, Liu C, Cui H, Zhang Y, Jiang    L, Qi X and Wang X. ;  Binding chicken Anx2 is beneficial for infection with infectious bursal disease virus ; Virus Res. 210, 232-240 (2015)  
