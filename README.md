@@ -204,5 +204,19 @@ https://www.dropbox.com/s/yapg89j085bgaew/Captura%20de%20pantalla%202017-08-13%2
 
 https://www.dropbox.com/s/7ulqun68s1tgitq/Captura%20de%20pantalla%202017-08-13%20a%20la%28s%29%2015.18.15.png?dl=0
 
+__Búsqueda de Human Microbiome en Google Scholar__
+
+Comparación en la busqueda de "Human Microbiome" y Human Microbiome
+
+__¿Son los resultados idénticos o no?__
+
+No son idénticos los resultados, dado que al usar comillas en los resultados la frase de Human Microbiome aparece de manera exacta 
+
+__Si se busca "Human Microbiome *"__
+
+__¿En qué cambiaron los resultados de la búsqueda?__
+
+Los cambios de los resultados fueron que además de marcar la frase Human Microbiome marcan algunas otras palabras, tales como  "refers" o  "project" con el fin de señalar que Human Microbiome es parte de una oración más grande 
+
 
 
