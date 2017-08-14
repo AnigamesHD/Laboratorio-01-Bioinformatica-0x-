@@ -28,35 +28,35 @@ __Gen río arriba__: ORIE2
 __Gen rí abajo__: TRPV3 
 
 
-__Longitud del gen__: 28.429 bases
+__Longitud del gen__: 28.429 bases.
 
 __Variantes descritas del gen__: 75
 
 __Posiciones de las variantes__: 
 
-Chr17: 3392543 : No sinónimo
+Chr17: 3392543 : No sinónimo.
 
-Chr17: 3476238 : No sinónimo
+Chr17: 3476238 : No sinónimo.
 
-Chr17: 3476371 : Sinónimo
+Chr17: 3476371 : Sinónimo.
 
-Chr17: 3397702 : Sinónimo
+Chr17: 3397702 : Sinónimo.
 
-__Ortólogos__: Hay 220 organismos que son ortólogos con el gen humano ASPA
+__Ortólogos__: Hay 220 organismos que son ortólogos con el gen humano ASPA.
 
-__Paralógos__: No hay paralógos descritos en la base de datos
+__Paralógos__: No hay paralógos descritos en la base de datos.
 
-__Pseudogenes__: No hay pseudogenes descritos en la base de datos
+__Pseudogenes__: No hay pseudogenes descritos en la base de datos.
 
 ## Parte 2: Rutas y procesos metabólicos
 
 __¿Existen otros tipos de nombres alternativos al gen reportados por Kegg? ¿Cuáles?__
 
-No hay otros tipos de nombres alternativos del gen en la base de datos 
+No hay otros tipos de nombres alternativos reportados del gen en la base de datos. 
 
 __¿En qué rutas metabólicas participa la proteina codificada por tu gen?__
 
-Participa en el metabolismo de la Histidina y en el metabolismo de la Alanina, Aspartato y Glutamato
+Participa en el metabolismo de la Histidina y en el metabolismo de la Alanina, Aspartato y Glutamato.
 
 __¿Cuál es el número de identificación de tu gen (entry number)?__
 
@@ -81,7 +81,7 @@ https://www.dropbox.com/s/klj1pgena3ndjz2/Captura%20de%20pantalla%202017-08-12%2
 
 __¿Qué significan los cuadros verdes en el diagrama?__
 
-Los cuadros verdes estan asociado a una página con información del gen que codifica la enzima implicada en la ruta metabólica
+Los cuadros verdes estan asociado a una página con información del gen que codifica la enzima implicada en la ruta metabólica.
 
 __¿Con qué rutas se cruza la ruta metabólica?__
 
@@ -94,37 +94,37 @@ Lo forman por 3: Molecular Function, Cellular Component and Biological Process
 __¿A qué corresponde este término (GO:0006096) y qué información te entrega la página?__
 
 El término buscado corresponde al proceso glicolítico.
-La página entrega información de la vía a la cual 0006096 pertenece, como por ejemplo nombres alternativos  con los que se le conoce, expliación de lo que consiste la vía, links a todos los genes y productos genéticos implicados en el proceso glicolítico y links a otras anotaciones sobre la vía.
+La página entrega información de la vía a la cual 0006096 pertenece, como por ejemplo nombres alternativos  con los que se le conoce, explicación de lo que consiste la vía, links a todos los genes y productos genéticos implicados en el proceso glicolítico y links a otras anotaciones sobre la vía.
 
 __Anota 10 SUb-categorías GO a la cual GO:0006096 pertenece__
 
-1-Proceso catabólico de carbohidratos
+1-Proceso catabólico de carbohidratos.
 
-2-Generación de precursores metabolicos y energía
+2-Generación de precursores metabólicos y energía.
 
-3-Fosforilación de nucleosido difosfato
+3-Fosforilación de nucleosido difosfato.
 
-4-Proceso metabolico de atp
+4-Proceso metabólico de atp.
 
-5-Proceso metabólico de nucleotidos
+5-Proceso metabólico de nucleotidos.
 
-6-Proceso catabolico
+6-Proceso catabólico.
 
-7-Proceso metabolico del acido monocarboxilico
+7-Proceso metabólico del acido monocarboxílico.
 
-8-Metabolismo de carbohidratos de un solo organismo 
+8-Metabolismo de carbohidratos de un solo organismo.
 
-9-Proceso catabólico de un solo organmismo
+9-Proceso catabólico de un solo organismo.
 
-10-Proceso metabolicos de coezimas
+10-Proceso metabólicos de coezimas.
 
 ## Parte 3: Descargando secuencias, convirtiendo formatos
 
-__Busqueda de GAPDH en NCBI__
+__Búsqueda de GAPDH en NCBI__
 
 __¿Cuántos items fueron encontrados?__
 
- Se encontraron 86454 items en la página
+ Se encontraron 86454 items en la página.
  
 __¿Cuántos en animales?__
 
@@ -134,7 +134,7 @@ __Busqueda para la secuencia de GAPDH de gallina.__
 
 __¿Cuál es la longitud del gen?__
 
-La longitud del gen es de 3.918
+La longitud del gen es de 3.918.
 
 __¿Cuál es la referencia bibliográfica más reciente?__
 
@@ -209,27 +209,27 @@ Comparación en la busqueda de "Human Microbiome" y Human Microbiome
 
 __¿Son los resultados idénticos o no?__
 
-No son idénticos los resultados, dado que al usar comillas en los resultados la frase de Human Microbiome aparece de manera exacta 
+No son idénticos los resultados, dado que al usar comillas en los resultados la frase de Human Microbiome aparece de manera exacta. 
 
 __Si se busca "Human Microbiome *"__
 
 __¿En qué cambiaron los resultados de la búsqueda?__
 
-Los cambios de los resultados fueron que además de marcar la frase Human Microbiome marcan algunas otras palabras, tales como  "refers" o  "project" con el fin de señalar que Human Microbiome es parte de una oración más grande 
+Los cambios de los resultados fueron que además de marcar la frase Human Microbiome marcan algunas otras palabras, tales como  "refers" o  "project" con el fin de señalar que Human Microbiome es parte de una oración más grande. 
 
 __Prueba con 14 inch...17 inch laptops en google.com__
 
 __¿Qué encuentras en los resultados? Prueba sin el rango también
 
-La cantidad de resultados varía con la utilización con o sin el rango
+La cantidad de resultados varía con la utilización con o sin el rango.
 
-__Busqueda de artículos cientificos__
+__Búsqueda de artículos científicos__
 
-__Descripciòn de los reultados de  "human microbiome" filetype:pdf__
+__Descripción de los resultados de  "human microbiome" filetype:pdf__
 
 Se observa que todos los resultados presentan como título "human microbiome" y además la mayoría contienen los caracteres de pdf delante del título.
 
-__Busqueda de "PCR amplification" +temperature, y luego "PCR amplification" -temperature__
+__Búsqueda de "PCR amplification" +temperature, y luego "PCR amplification" -temperature__
 
 __¿En qué cambian los resultados de la búsqueda?
 
@@ -239,4 +239,4 @@ __Prueba de Operadores Boolean con Soil OR Human pathogens y luego con Soil AND 
 
 __¿En qué cambian los resultados?__
 
-En que al utilizar el operador AND reduce los resultados de la  búsqueda, ya que mezcla solo los terminos escritos en comparación al operador OR arrojo una mayor cantidad de resultados, por lo que se decuce que al utilizar este operador OR amplia la busqueda.
+En que al utilizar el operador AND reduce los resultados de la  búsqueda, ya que mezcla solo los términos escritos en comparación al operador OR arrojo una mayor cantidad de resultados, por lo que se deduce que al utilizar este operador OR amplia la búsqueda.
