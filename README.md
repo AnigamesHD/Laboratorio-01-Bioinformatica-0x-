@@ -235,7 +235,7 @@ https://www.dropbox.com/s/tkhhnktwftfu5jj/Captura%20de%20pantalla%202017-08-13%2
 
 https://www.dropbox.com/s/yapg89j085bgaew/Captura%20de%20pantalla%202017-08-13%20a%20la%28s%29%2015.13.00.png?dl=0
 
-https://www.dropbox.com/s/7ulqun68s1tgitq/Captura%20de%20pantalla%202017-08-13%20a%20la%28s%29%2015.18.15.png?dl=0
+https://www.dropbox.com/s/h9wgxaji9my9xpj/Captura%20de%20pantalla%202017-08-13%20a%20la%28s%29%2021.59.34.png?dl=0
 
 __Búsqueda de Human Microbiome en Google Scholar__
 
