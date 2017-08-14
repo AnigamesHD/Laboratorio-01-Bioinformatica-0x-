@@ -1,4 +1,4 @@
-# Laboratorio-01-Bioinformatica-0x-
+# Laboratorio 01 Bioinformatica
 
 ## Nombre: Byron Guzmán Marín
 
