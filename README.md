@@ -2,6 +2,8 @@
 
 ## Nombre: Byron Guzmán Marín
 
+## Profesor(a): Katterinne Méndez Carrasco
+
 
 ## Parte 1: Enfermedades genéticas y genes
 
