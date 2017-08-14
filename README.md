@@ -25,7 +25,7 @@ __Número de EC__:  3.5.1.15
 
 __Gen río arriba__: ORIE2
 
-__Gen rí abajo__: TRPV3 
+__Gen río abajo__: TRPV3 
 
 
 __Longitud del gen__: 28.429 bases.
@@ -96,7 +96,7 @@ __¿A qué corresponde este término (GO:0006096) y qué información te entrega
 El término buscado corresponde al proceso glicolítico.
 La página entrega información de la vía a la cual 0006096 pertenece, como por ejemplo nombres alternativos  con los que se le conoce, explicación de lo que consiste la vía, links a todos los genes y productos genéticos implicados en el proceso glicolítico y links a otras anotaciones sobre la vía.
 
-__Anota 10 SUb-categorías GO a la cual GO:0006096 pertenece__
+__Anota 10 Sub-categorías GO a la cual GO:0006096 pertenece__
 
 1-Proceso catabólico de carbohidratos.
 
@@ -156,37 +156,71 @@ mRNAACCTTCTCACTGCGCGCTGGGGCCGTTGACGTGCAGCAGGAACACTATAAAGGCGAGATGGTGAAAGTCGGAGTCA
 
 __Formato nexus__
 
-#NEXUS[TITLE: Written by EMBOSS 17/03/16]begin data;dimensions ntax=1 nchar=1288;format interleave datatype=DNA missing=N gap=-;
+#NEXUS
+[TITLE: Written by EMBOSS 13/08/17]
+
+begin data;
+dimensions ntax=1 nchar=1288;
+format interleave datatype=DNA missing=N gap=-;
 
 matrix
-
 NM_204305.1          ACCTTCTCACTGCGCGCTGGGGCCGTTGACGTGCAGCAGGAACACTATAA
+
 NM_204305.1          AGGCGAGATGGTGAAAGTCGGAGTCAACGGATTTGGCCGTATTGGCCGCC
+
 NM_204305.1          TGGTCACCAGGGCTGCCGTCCTCTCTGGCAAAGTCCAAGTGGTGGCCATC
+
 NM_204305.1          AATGATCCCTTCATCGATCTGAACTACATGGTTTACATGTTCAAATATGA
+
 NM_204305.1          TTCTACACACGGACACTTCAAGGGCACTGTCAAGGCTGAGAACGGGAAAC
+
 NM_204305.1          TTGTGATCAATGGGCACGCCATCACTATCTTCCAGGAGCGTGACCCCAGC
+
 NM_204305.1          AACATCAAATGGGCAGATGCAGGTGCTGAGTATGTTGTGGAGTCCACTGG
+
 NM_204305.1          TGTCTTCACCACCATGGAGAAGGCTGGGGCTCATCTGAAGGGTGGTGCTA
+
 NM_204305.1          AGCGTGTTATCATCTCAGCTCCCTCAGCTGATGCCCCCATGTTTGTGATG
+
 NM_204305.1          GGTGTCAACCATGAGAAATATGACAAGTCCCTGAAAATTGTCAGCAATGC
+
 NM_204305.1          ATCGTGCACCACCAACTGCCTGGCACCCTTGGCCAAGGTCATCCATGACA
+
 NM_204305.1          ACTTTGGCATTGTGGAGGGTCTTATGACCACTGTCCATGCCATCACAGCC
+
 NM_204305.1          ACACAGAAGACGGTGGATGGCCCCTCTGGGAAGCTGTGGAGAGATGGCAG
+
 NM_204305.1          AGGTGCTGCCCAGAACATCATCCCAGCGTCCACTGGGGCTGCTAAGGCTG
+
 NM_204305.1          TGGGGAAAGTCATCCCTGAGCTGAATGGGAAGCTTACTGGAATGGCTTTC
+
 NM_204305.1          CGTGTGCCAACCCCCAATGTCTCTGTTGTTGACCTGACCTGCCGTCTGGA
+
 NM_204305.1          GAAACCAGCCAAGTATGATGATATCAAGAGGGTAGTGAAGGCTGCTGCTG
+
 NM_204305.1          ATGGGCCCCTGAAGGGCATCCTAGGATACACAGAGGACCAGGTTGTCTCC
+
 NM_204305.1          TGTGACTTCAATGGTGACAGCCATTCCTCCACCTTTGATGCGGGTGCTGG
+
 NM_204305.1          CATTGCACTGAATGACCATTTCGTCAAGCTTGTTTCCTGGTATGACAATG
+
 NM_204305.1          AGTTTGGATACAGCAACCGTGTTGTGGACTTGATGGTCCACATGGCATCC
+
 NM_204305.1          AAGGAGTGAGCCAGGCACACAGCCCCCCTGCTGCCTAGGGAAGCAGGACC
+
 NM_204305.1          CTTTGTTGGAGCCCCTGCTCTTCACCACCGCTCAGTTCTGCATCCTGCAG
+
 NM_204305.1          TGAGAGGCCAGTTCTGTTCCCTTCTGTCTCCCCCACTCCTCCAATTTCTT
+
 NM_204305.1          CCTCCACCTGGGGGAGGTGGGAGAGGCTGATAGAAACTGATCTGTTTGTG
+
 NM_204305.1          TACCACCTTACATCAATAAAAGTGTTCACCATCTGAAG
-;end;begin assumptions;options deftype=unord;end;
+;
+
+end;
+begin assumptions;
+options deftype=unord;
+end;
 
 
 ## Parte 4: Buscando artículos científicos en linea
@@ -219,7 +253,7 @@ Los cambios de los resultados fueron que además de marcar la frase Human Microb
 
 __Prueba con 14 inch...17 inch laptops en google.com__
 
-__¿Qué encuentras en los resultados? Prueba sin el rango también
+__¿Qué encuentras en los resultados? Prueba sin el rango también__
 
 La cantidad de resultados varía con la utilización con o sin el rango.
 
@@ -231,7 +265,7 @@ Se observa que todos los resultados presentan como título "human microbiome" y 
 
 __Búsqueda de "PCR amplification" +temperature, y luego "PCR amplification" -temperature__
 
-__¿En qué cambian los resultados de la búsqueda?
+__¿En qué cambian los resultados de la búsqueda?__
 
 En que al utilizar los signos + y - en la búsqueda da como resultado diferentes artículos científicos y una diferencia considerable en la cantidad de articulos, por lo que la utilización de estos símbolos es de suma utilidad para reducir  los resultados en las búsquedas de artículos.
 
